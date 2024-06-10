@@ -1,0 +1,26 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#inputText {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#listBox {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
